@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome!"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD candidae in the Department of Political Science at Yale University where I study comparative politics. My research focuses on electoral politics, elite behavior, and judicial politics, primarily in Africa. My dissertation seeks to understand the strategy behind the increasing number of lawsuits challenging presidential election results across Africa. In the project, I examine the role of intra-party competition in determining post-election party behavior. The project draws on in-depth research in Malawi. 
+Welcome! I am a PhD candidae in the Department of Political Science at Yale University where I study comparative politics. My research focuses on electoral politics, elite behavior, and judicial politics, primarily in Africa. My dissertation seeks to understand the strategy behind the increasing number of lawsuits challenging presidential election results across Africa. In the project, I examine the role of intra-party competition in determining post-election party behavior. The project draws on in-depth research in Malawi. 
 
 My research has been published in [*Law and Social Inquiry*](https://www.cambridge.org/core/journals/law-and-social-inquiry/article/case-sensitive-lawyers-and-the-formation-of-legal-arguments-in-tanzania/876AB78B0C01689ABD667F63856C7116). 
 
