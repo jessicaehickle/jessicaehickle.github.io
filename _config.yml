@@ -23,7 +23,7 @@ repository               : "jessicaehickle/jessicaehickle.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Hickle,Jessica_Portrait.jpg"
+  avatar           : "headshot.jpg"
   name             : "Jessica Hickle"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in Political Science, Yale University"
